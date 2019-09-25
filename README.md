@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 Create a virtual enviroment and install the dependencies in it with the following commands:
 
@@ -17,7 +17,7 @@ Windows:
 or install the dependencies globally on your system-wide Python installation.
 
 
-#Running
+# Running
 
 Run the following commands while still inside the virtual enviroment:
 
@@ -67,7 +67,7 @@ optional arguments:
   --inputFilename INPUTFILENAME, -i INPUTFILENAME
 ```
 
-#Examples 
+# Examples 
 
 #### Process a single file
 ```
@@ -85,7 +85,7 @@ python ocr.py -i ./foo/ -l Romanian -e txt,xml,pdfSearchable -xwf
 ```
 
 
-#Links
+# Links
 
 * [List of available recognition languages](https://www.ocrsdk.com/documentation/specifications/recognition-languages/)
 * [List of available export formats](https://www.ocrsdk.com/documentation/specifications/export-formats/)
